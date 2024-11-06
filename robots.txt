@@ -1,0 +1,4 @@
+Sitemap: https://ukmarketingfreelancer.co.uk/sitemap.xml
+
+User-agent: *
+Allow: /
